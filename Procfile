@@ -1,1 +1,1 @@
-web: gunicorn app:fsspCalender
+web: gunicorn app:app
